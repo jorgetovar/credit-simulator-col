@@ -4,10 +4,11 @@
 
 I went from having a bad debt to a small and manageable one due to Python.
 
-Having a house is an important decision, and the credits are sometimes overwhelming. So, I decided to create a script, and compare many scenarios, then decide what was best for me. 
+Having a house is an important decision, and the credits are sometimes overwhelming. So, I created this Repository, compared many scenarios, and then decided what was best for me.
 
 In summary:
-- Pay more than the minimum payment. Go through your budget and decide how much extra you can put toward your debt. 
+
+- Pay more than the minimum payment. Go through your budget and decide how much extra you can put toward your debt.
 - Refinance debt.
 
 As you can see in the scenarios, the amount of money paid in interest is absurd.
