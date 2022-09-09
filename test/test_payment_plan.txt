@@ -1,0 +1,1130 @@
+----- PAYMENT-PLAN -----
+ 
+----- current balance $300,000,000.00 -----  
+----- month plan 1 [2020-10-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,483,700.94 
+due: $4,277,699.22 
+principal due: $1,469,998.28 
+fees life insurance: $210,000.00 
+fees insurance due: $324,000.00 
+total due: $297,530,001.72 
+ 
+month paid: $5,277,699.22 
+ 
+----- current balance $297,530,001.72 -----  
+----- month plan 2 [2020-11-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,463,251.82 
+due: $4,275,970.22 
+principal due: $1,490,447.41 
+fees life insurance: $208,271.00 
+fees insurance due: $322,271.00 
+total due: $295,039,554.31 
+ 
+month paid: $5,275,970.22 
+ 
+----- current balance $295,039,554.31 -----  
+----- month plan 3 [2020-12-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,442,633.39 
+due: $4,274,226.91 
+principal due: $1,511,065.83 
+fees life insurance: $206,527.69 
+fees insurance due: $320,527.69 
+total due: $292,528,488.49 
+ 
+month paid: $5,274,226.91 
+ 
+----- current balance $292,528,488.49 -----  
+----- month plan 4 [2021-01-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,421,844.27 
+due: $4,272,469.16 
+principal due: $1,531,854.95 
+fees life insurance: $204,769.94 
+fees insurance due: $318,769.94 
+total due: $289,996,633.54 
+ 
+month paid: $5,272,469.16 
+ 
+----- current balance $289,996,633.54 -----  
+----- month plan 5 [2021-02-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,400,883.04 
+due: $4,270,696.86 
+principal due: $1,552,816.18 
+fees life insurance: $202,997.64 
+fees insurance due: $316,997.64 
+total due: $287,443,817.35 
+ 
+month paid: $5,270,696.86 
+ 
+----- current balance $287,443,817.35 -----  
+----- month plan 6 [2021-03-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,379,748.26 
+due: $4,268,909.89 
+principal due: $1,573,950.96 
+fees life insurance: $201,210.67 
+fees insurance due: $315,210.67 
+total due: $284,869,866.40 
+ 
+month paid: $5,268,909.89 
+ 
+----- current balance $284,869,866.40 -----  
+----- month plan 7 [2021-04-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,358,438.52 
+due: $4,267,108.13 
+principal due: $1,595,260.70 
+fees life insurance: $199,408.91 
+fees insurance due: $313,408.91 
+total due: $282,274,605.69 
+ 
+month paid: $5,267,108.13 
+ 
+----- current balance $282,274,605.69 -----  
+----- month plan 8 [2021-05-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,336,952.34 
+due: $4,265,291.45 
+principal due: $1,616,746.88 
+fees life insurance: $197,592.22 
+fees insurance due: $311,592.22 
+total due: $279,657,858.82 
+ 
+month paid: $5,265,291.45 
+ 
+----- current balance $279,657,858.82 -----  
+----- month plan 9 [2021-06-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,315,288.29 
+due: $4,263,459.72 
+principal due: $1,638,410.93 
+fees life insurance: $195,760.50 
+fees insurance due: $309,760.50 
+total due: $277,019,447.88 
+ 
+month paid: $5,263,459.72 
+ 
+----- current balance $277,019,447.88 -----  
+----- month plan 10 [2021-07-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,293,444.88 
+due: $4,261,612.83 
+principal due: $1,660,254.34 
+fees life insurance: $193,913.61 
+fees insurance due: $307,913.61 
+total due: $274,359,193.54 
+ 
+month paid: $5,261,612.83 
+ 
+----- current balance $274,359,193.54 -----  
+----- month plan 11 [2021-08-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,271,420.62 
+due: $4,259,750.66 
+principal due: $1,682,278.60 
+fees life insurance: $192,051.44 
+fees insurance due: $306,051.44 
+total due: $271,676,914.94 
+ 
+month paid: $5,259,750.66 
+ 
+----- current balance $271,676,914.94 -----  
+----- month plan 12 [2021-09-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,249,214.03 
+due: $4,257,873.06 
+principal due: $1,704,485.19 
+fees life insurance: $190,173.84 
+fees insurance due: $304,173.84 
+total due: $268,972,429.75 
+ 
+month paid: $5,257,873.06 
+ 
+----- current balance $268,972,429.75 -----  
+----- month plan 13 [2021-10-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,226,823.59 
+due: $4,255,979.92 
+principal due: $1,726,875.63 
+fees life insurance: $188,280.70 
+fees insurance due: $302,280.70 
+total due: $266,245,554.12 
+ 
+month paid: $5,255,979.92 
+ 
+----- current balance $266,245,554.12 -----  
+----- month plan 14 [2021-11-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,204,247.78 
+due: $4,254,071.11 
+principal due: $1,749,451.44 
+fees life insurance: $186,371.89 
+fees insurance due: $300,371.89 
+total due: $263,496,102.67 
+ 
+month paid: $5,254,071.11 
+ 
+----- current balance $263,496,102.67 -----  
+----- month plan 15 [2021-12-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,181,485.06 
+due: $4,252,146.49 
+principal due: $1,772,214.16 
+fees life insurance: $184,447.27 
+fees insurance due: $298,447.27 
+total due: $260,723,888.51 
+ 
+month paid: $5,252,146.49 
+ 
+----- current balance $260,723,888.51 -----  
+----- month plan 16 [2022-01-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,158,533.89 
+due: $4,250,205.94 
+principal due: $1,795,165.33 
+fees life insurance: $182,506.72 
+fees insurance due: $296,506.72 
+total due: $257,928,723.18 
+ 
+month paid: $5,250,205.94 
+ 
+----- current balance $257,928,723.18 -----  
+----- month plan 17 [2022-02-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,135,392.71 
+due: $4,248,249.33 
+principal due: $1,818,306.51 
+fees life insurance: $180,550.11 
+fees insurance due: $294,550.11 
+total due: $255,110,416.66 
+ 
+month paid: $5,248,249.33 
+ 
+----- current balance $255,110,416.66 -----  
+----- month plan 18 [2022-03-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,112,059.94 
+due: $4,246,276.51 
+principal due: $1,841,639.28 
+fees life insurance: $178,577.29 
+fees insurance due: $292,577.29 
+total due: $252,268,777.38 
+ 
+month paid: $5,246,276.51 
+ 
+----- current balance $252,268,777.38 -----  
+----- month plan 19 [2022-04-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,088,534.00 
+due: $4,244,287.37 
+principal due: $1,865,165.22 
+fees life insurance: $176,588.14 
+fees insurance due: $290,588.14 
+total due: $249,403,612.16 
+ 
+month paid: $5,244,287.37 
+ 
+----- current balance $249,403,612.16 -----  
+----- month plan 20 [2022-05-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,064,813.29 
+due: $4,242,281.75 
+principal due: $1,888,885.93 
+fees life insurance: $174,582.53 
+fees insurance due: $288,582.53 
+total due: $246,514,726.22 
+ 
+month paid: $5,242,281.75 
+ 
+----- current balance $246,514,726.22 -----  
+----- month plan 21 [2022-06-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,040,896.19 
+due: $4,240,259.53 
+principal due: $1,912,803.03 
+fees life insurance: $172,560.31 
+fees insurance due: $286,560.31 
+total due: $243,601,923.19 
+ 
+month paid: $5,240,259.53 
+ 
+----- current balance $243,601,923.19 -----  
+----- month plan 22 [2022-07-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $2,016,781.09 
+due: $4,238,220.57 
+principal due: $1,936,918.14 
+fees life insurance: $170,521.35 
+fees insurance due: $284,521.35 
+total due: $240,665,005.06 
+ 
+month paid: $5,238,220.57 
+ 
+----- current balance $240,665,005.06 -----  
+----- month plan 23 [2022-08-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,992,466.33 
+due: $4,236,164.72 
+principal due: $1,961,232.89 
+fees life insurance: $168,465.50 
+fees insurance due: $282,465.50 
+total due: $237,703,772.17 
+ 
+month paid: $5,236,164.72 
+ 
+----- current balance $237,703,772.17 -----  
+----- month plan 24 [2022-09-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,967,950.27 
+due: $4,234,091.86 
+principal due: $1,985,748.95 
+fees life insurance: $166,392.64 
+fees insurance due: $280,392.64 
+total due: $234,718,023.22 
+ 
+month paid: $5,234,091.86 
+ 
+----- current balance $234,718,023.22 -----  
+----- month plan 25 [2022-10-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,943,231.25 
+due: $4,232,001.84 
+principal due: $2,010,467.97 
+fees life insurance: $164,302.62 
+fees insurance due: $278,302.62 
+total due: $231,707,555.25 
+ 
+month paid: $5,232,001.84 
+ 
+----- current balance $231,707,555.25 -----  
+----- month plan 26 [2022-11-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,918,307.58 
+due: $4,229,894.51 
+principal due: $2,035,391.65 
+fees life insurance: $162,195.29 
+fees insurance due: $276,195.29 
+total due: $228,672,163.60 
+ 
+month paid: $5,229,894.51 
+ 
+----- current balance $228,672,163.60 -----  
+----- month plan 27 [2022-12-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,893,177.56 
+due: $4,227,769.74 
+principal due: $2,060,521.66 
+fees life insurance: $160,070.51 
+fees insurance due: $274,070.51 
+total due: $225,611,641.94 
+ 
+month paid: $5,227,769.74 
+ 
+----- current balance $225,611,641.94 -----  
+----- month plan 28 [2023-01-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,867,839.49 
+due: $4,225,627.37 
+principal due: $2,085,859.73 
+fees life insurance: $157,928.15 
+fees insurance due: $271,928.15 
+total due: $222,525,782.21 
+ 
+month paid: $5,225,627.37 
+ 
+----- current balance $222,525,782.21 -----  
+----- month plan 29 [2023-02-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,842,291.65 
+due: $4,223,467.27 
+principal due: $2,111,407.57 
+fees life insurance: $155,768.05 
+fees insurance due: $269,768.05 
+total due: $219,414,374.64 
+ 
+month paid: $5,223,467.27 
+ 
+----- current balance $219,414,374.64 -----  
+----- month plan 30 [2023-03-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,816,532.29 
+due: $4,221,289.28 
+principal due: $2,137,166.93 
+fees life insurance: $153,590.06 
+fees insurance due: $267,590.06 
+total due: $216,277,207.71 
+ 
+month paid: $5,221,289.28 
+ 
+----- current balance $216,277,207.71 -----  
+----- month plan 31 [2023-04-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,790,559.68 
+due: $4,219,093.27 
+principal due: $2,163,139.54 
+fees life insurance: $151,394.05 
+fees insurance due: $265,394.05 
+total due: $213,114,068.17 
+ 
+month paid: $5,219,093.27 
+ 
+----- current balance $213,114,068.17 -----  
+----- month plan 32 [2023-05-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,764,372.04 
+due: $4,216,879.07 
+principal due: $2,189,327.18 
+fees life insurance: $149,179.85 
+fees insurance due: $263,179.85 
+total due: $209,924,740.99 
+ 
+month paid: $5,216,879.07 
+ 
+----- current balance $209,924,740.99 -----  
+----- month plan 33 [2023-06-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,737,967.59 
+due: $4,214,646.54 
+principal due: $2,215,731.63 
+fees life insurance: $146,947.32 
+fees insurance due: $260,947.32 
+total due: $206,709,009.35 
+ 
+month paid: $5,214,646.54 
+ 
+----- current balance $206,709,009.35 -----  
+----- month plan 34 [2023-07-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,711,344.54 
+due: $4,212,395.53 
+principal due: $2,242,354.69 
+fees life insurance: $144,696.31 
+fees insurance due: $258,696.31 
+total due: $203,466,654.67 
+ 
+month paid: $5,212,395.53 
+ 
+----- current balance $203,466,654.67 -----  
+----- month plan 35 [2023-08-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,684,501.07 
+due: $4,210,125.88 
+principal due: $2,269,198.15 
+fees life insurance: $142,426.66 
+fees insurance due: $256,426.66 
+total due: $200,197,456.52 
+ 
+month paid: $5,210,125.88 
+ 
+----- current balance $200,197,456.52 -----  
+----- month plan 36 [2023-09-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,657,435.37 
+due: $4,207,837.44 
+principal due: $2,296,263.85 
+fees life insurance: $140,138.22 
+fees insurance due: $254,138.22 
+total due: $196,901,192.67 
+ 
+month paid: $5,207,837.44 
+ 
+----- current balance $196,901,192.67 -----  
+----- month plan 37 [2023-10-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,630,145.59 
+due: $4,205,530.06 
+principal due: $2,323,553.63 
+fees life insurance: $137,830.83 
+fees insurance due: $251,830.83 
+total due: $193,577,639.04 
+ 
+month paid: $5,205,530.06 
+ 
+----- current balance $193,577,639.04 -----  
+----- month plan 38 [2023-11-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,602,629.88 
+due: $4,203,203.57 
+principal due: $2,351,069.34 
+fees life insurance: $135,504.35 
+fees insurance due: $249,504.35 
+total due: $190,226,569.69 
+ 
+month paid: $5,203,203.57 
+ 
+----- current balance $190,226,569.69 -----  
+----- month plan 39 [2023-12-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,574,886.37 
+due: $4,200,857.82 
+principal due: $2,378,812.85 
+fees life insurance: $133,158.60 
+fees insurance due: $247,158.60 
+total due: $186,847,756.84 
+ 
+month paid: $5,200,857.82 
+ 
+----- current balance $186,847,756.84 -----  
+----- month plan 40 [2024-01-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,546,913.16 
+due: $4,198,492.65 
+principal due: $2,406,786.06 
+fees life insurance: $130,793.43 
+fees insurance due: $244,793.43 
+total due: $183,440,970.78 
+ 
+month paid: $5,198,492.65 
+ 
+----- current balance $183,440,970.78 -----  
+----- month plan 41 [2024-02-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,518,708.37 
+due: $4,196,107.90 
+principal due: $2,434,990.85 
+fees life insurance: $128,408.68 
+fees insurance due: $242,408.68 
+total due: $180,005,979.93 
+ 
+month paid: $5,196,107.90 
+ 
+----- current balance $180,005,979.93 -----  
+----- month plan 42 [2024-03-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,490,270.07 
+due: $4,193,703.41 
+principal due: $2,463,429.15 
+fees life insurance: $126,004.19 
+fees insurance due: $240,004.19 
+total due: $176,542,550.78 
+ 
+month paid: $5,193,703.41 
+ 
+----- current balance $176,542,550.78 -----  
+----- month plan 43 [2024-04-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,461,596.33 
+due: $4,191,279.01 
+principal due: $2,492,102.89 
+fees life insurance: $123,579.79 
+fees insurance due: $237,579.79 
+total due: $173,050,447.89 
+ 
+month paid: $5,191,279.01 
+ 
+----- current balance $173,050,447.89 -----  
+----- month plan 44 [2024-05-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,432,685.20 
+due: $4,188,834.53 
+principal due: $2,521,014.02 
+fees life insurance: $121,135.31 
+fees insurance due: $235,135.31 
+total due: $169,529,433.87 
+ 
+month paid: $5,188,834.53 
+ 
+----- current balance $169,529,433.87 -----  
+----- month plan 45 [2024-06-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,403,534.71 
+due: $4,186,369.82 
+principal due: $2,550,164.51 
+fees life insurance: $118,670.60 
+fees insurance due: $232,670.60 
+total due: $165,979,269.37 
+ 
+month paid: $5,186,369.82 
+ 
+----- current balance $165,979,269.37 -----  
+----- month plan 46 [2024-07-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,374,142.89 
+due: $4,183,884.71 
+principal due: $2,579,556.33 
+fees life insurance: $116,185.49 
+fees insurance due: $230,185.49 
+total due: $162,399,713.04 
+ 
+month paid: $5,183,884.71 
+ 
+----- current balance $162,399,713.04 -----  
+----- month plan 47 [2024-08-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,344,507.73 
+due: $4,181,379.02 
+principal due: $2,609,191.49 
+fees life insurance: $113,679.80 
+fees insurance due: $227,679.80 
+total due: $158,790,521.55 
+ 
+month paid: $5,181,379.02 
+ 
+----- current balance $158,790,521.55 -----  
+----- month plan 48 [2024-09-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,314,627.23 
+due: $4,178,852.59 
+principal due: $2,639,072.00 
+fees life insurance: $111,153.37 
+fees insurance due: $225,153.37 
+total due: $155,151,449.55 
+ 
+month paid: $5,178,852.59 
+ 
+----- current balance $155,151,449.55 -----  
+----- month plan 49 [2024-10-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,284,499.34 
+due: $4,176,305.24 
+principal due: $2,669,199.88 
+fees life insurance: $108,606.01 
+fees insurance due: $222,606.01 
+total due: $151,482,249.67 
+ 
+month paid: $5,176,305.24 
+ 
+----- current balance $151,482,249.67 -----  
+----- month plan 50 [2024-11-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,254,122.02 
+due: $4,173,736.80 
+principal due: $2,699,577.20 
+fees life insurance: $106,037.57 
+fees insurance due: $220,037.57 
+total due: $147,782,672.47 
+ 
+month paid: $5,173,736.80 
+ 
+----- current balance $147,782,672.47 -----  
+----- month plan 51 [2024-12-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,223,493.21 
+due: $4,171,147.09 
+principal due: $2,730,206.01 
+fees life insurance: $103,447.87 
+fees insurance due: $217,447.87 
+total due: $144,052,466.45 
+ 
+month paid: $5,171,147.09 
+ 
+----- current balance $144,052,466.45 -----  
+----- month plan 52 [2025-01-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,192,610.82 
+due: $4,168,535.95 
+principal due: $2,761,088.40 
+fees life insurance: $100,836.73 
+fees insurance due: $214,836.73 
+total due: $140,291,378.05 
+ 
+month paid: $5,168,535.95 
+ 
+----- current balance $140,291,378.05 -----  
+----- month plan 53 [2025-02-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,161,472.76 
+due: $4,165,903.19 
+principal due: $2,792,226.46 
+fees life insurance: $98,203.96 
+fees insurance due: $212,203.96 
+total due: $136,499,151.59 
+ 
+month paid: $5,165,903.19 
+ 
+----- current balance $136,499,151.59 -----  
+----- month plan 54 [2025-03-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,130,076.90 
+due: $4,163,248.63 
+principal due: $2,823,622.32 
+fees life insurance: $95,549.41 
+fees insurance due: $209,549.41 
+total due: $132,675,529.27 
+ 
+month paid: $5,163,248.63 
+ 
+----- current balance $132,675,529.27 -----  
+----- month plan 55 [2025-04-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,098,421.12 
+due: $4,160,572.09 
+principal due: $2,855,278.10 
+fees life insurance: $92,872.87 
+fees insurance due: $206,872.87 
+total due: $128,820,251.17 
+ 
+month paid: $5,160,572.09 
+ 
+----- current balance $128,820,251.17 -----  
+----- month plan 56 [2025-05-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,066,503.26 
+due: $4,157,873.40 
+principal due: $2,887,195.96 
+fees life insurance: $90,174.18 
+fees insurance due: $204,174.18 
+total due: $124,933,055.22 
+ 
+month paid: $5,157,873.40 
+ 
+----- current balance $124,933,055.22 -----  
+----- month plan 57 [2025-06-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,034,321.16 
+due: $4,155,152.36 
+principal due: $2,919,378.07 
+fees life insurance: $87,453.14 
+fees insurance due: $201,453.14 
+total due: $121,013,677.15 
+ 
+month paid: $5,155,152.36 
+ 
+----- current balance $121,013,677.15 -----  
+----- month plan 58 [2025-07-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $1,001,872.61 
+due: $4,152,408.80 
+principal due: $2,951,826.61 
+fees life insurance: $84,709.57 
+fees insurance due: $198,709.57 
+total due: $117,061,850.54 
+ 
+month paid: $5,152,408.80 
+ 
+----- current balance $117,061,850.54 -----  
+----- month plan 59 [2025-08-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $969,155.43 
+due: $4,149,642.52 
+principal due: $2,984,543.79 
+fees life insurance: $81,943.30 
+fees insurance due: $195,943.30 
+total due: $113,077,306.75 
+ 
+month paid: $5,149,642.52 
+ 
+----- current balance $113,077,306.75 -----  
+----- month plan 60 [2025-09-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $936,167.38 
+due: $4,146,853.34 
+principal due: $3,017,531.84 
+fees life insurance: $79,154.11 
+fees insurance due: $193,154.11 
+total due: $109,059,774.90 
+ 
+month paid: $5,146,853.34 
+ 
+----- current balance $109,059,774.90 -----  
+----- month plan 61 [2025-10-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $902,906.22 
+due: $4,144,041.06 
+principal due: $3,050,793.00 
+fees life insurance: $76,341.84 
+fees insurance due: $190,341.84 
+total due: $105,008,981.90 
+ 
+month paid: $5,144,041.06 
+ 
+----- current balance $105,008,981.90 -----  
+----- month plan 62 [2025-11-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $869,369.69 
+due: $4,141,205.51 
+principal due: $3,084,329.53 
+fees life insurance: $73,506.29 
+fees insurance due: $187,506.29 
+total due: $100,924,652.37 
+ 
+month paid: $5,141,205.51 
+ 
+----- current balance $100,924,652.37 -----  
+----- month plan 63 [2025-12-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $835,555.51 
+due: $4,138,346.48 
+principal due: $3,118,143.71 
+fees life insurance: $70,647.26 
+fees insurance due: $184,647.26 
+total due: $96,806,508.66 
+ 
+month paid: $5,138,346.48 
+ 
+----- current balance $96,806,508.66 -----  
+----- month plan 64 [2026-01-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $801,461.39 
+due: $4,135,463.78 
+principal due: $3,152,237.83 
+fees life insurance: $67,764.56 
+fees insurance due: $181,764.56 
+total due: $92,654,270.83 
+ 
+month paid: $5,135,463.78 
+ 
+----- current balance $92,654,270.83 -----  
+----- month plan 65 [2026-02-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $767,085.00 
+due: $4,132,557.21 
+principal due: $3,186,614.22 
+fees life insurance: $64,857.99 
+fees insurance due: $178,857.99 
+total due: $88,467,656.61 
+ 
+month paid: $5,132,557.21 
+ 
+----- current balance $88,467,656.61 -----  
+----- month plan 66 [2026-03-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $732,424.01 
+due: $4,129,626.58 
+principal due: $3,221,275.21 
+fees life insurance: $61,927.36 
+fees insurance due: $175,927.36 
+total due: $84,246,381.39 
+ 
+month paid: $5,129,626.58 
+ 
+----- current balance $84,246,381.39 -----  
+----- month plan 67 [2026-04-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $697,476.06 
+due: $4,126,671.69 
+principal due: $3,256,223.17 
+fees life insurance: $58,972.47 
+fees insurance due: $172,972.47 
+total due: $79,990,158.23 
+ 
+month paid: $5,126,671.69 
+ 
+----- current balance $79,990,158.23 -----  
+----- month plan 68 [2026-05-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $662,238.77 
+due: $4,123,692.33 
+principal due: $3,291,460.45 
+fees life insurance: $55,993.11 
+fees insurance due: $169,993.11 
+total due: $75,698,697.77 
+ 
+month paid: $5,123,692.33 
+ 
+----- current balance $75,698,697.77 -----  
+----- month plan 69 [2026-06-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $626,709.76 
+due: $4,120,688.31 
+principal due: $3,326,989.47 
+fees life insurance: $52,989.09 
+fees insurance due: $166,989.09 
+total due: $71,371,708.31 
+ 
+month paid: $5,120,688.31 
+ 
+----- current balance $71,371,708.31 -----  
+----- month plan 70 [2026-07-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $590,886.60 
+due: $4,117,659.42 
+principal due: $3,362,812.62 
+fees life insurance: $49,960.20 
+fees insurance due: $163,960.20 
+total due: $67,008,895.68 
+ 
+month paid: $5,117,659.42 
+ 
+----- current balance $67,008,895.68 -----  
+----- month plan 71 [2026-08-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $554,766.86 
+due: $4,114,605.45 
+principal due: $3,398,932.36 
+fees life insurance: $46,906.23 
+fees insurance due: $160,906.23 
+total due: $62,609,963.32 
+ 
+month paid: $5,114,605.45 
+ 
+----- current balance $62,609,963.32 -----  
+----- month plan 72 [2026-09-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $518,348.08 
+due: $4,111,526.20 
+principal due: $3,435,351.14 
+fees life insurance: $43,826.97 
+fees insurance due: $157,826.97 
+total due: $58,174,612.18 
+ 
+month paid: $5,111,526.20 
+ 
+----- current balance $58,174,612.18 -----  
+----- month plan 73 [2026-10-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $481,627.80 
+due: $4,108,421.45 
+principal due: $3,472,071.42 
+fees life insurance: $40,722.23 
+fees insurance due: $154,722.23 
+total due: $53,702,540.76 
+ 
+month paid: $5,108,421.45 
+ 
+----- current balance $53,702,540.76 -----  
+----- month plan 74 [2026-11-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $444,603.50 
+due: $4,105,291.00 
+principal due: $3,509,095.72 
+fees life insurance: $37,591.78 
+fees insurance due: $151,591.78 
+total due: $49,193,445.04 
+ 
+month paid: $5,105,291.00 
+ 
+----- current balance $49,193,445.04 -----  
+----- month plan 75 [2026-12-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $407,272.69 
+due: $4,102,134.63 
+principal due: $3,546,426.54 
+fees life insurance: $34,435.41 
+fees insurance due: $148,435.41 
+total due: $44,647,018.50 
+ 
+month paid: $5,102,134.63 
+ 
+----- current balance $44,647,018.50 -----  
+----- month plan 76 [2027-01-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $369,632.81 
+due: $4,098,952.13 
+principal due: $3,584,066.42 
+fees life insurance: $31,252.91 
+fees insurance due: $145,252.91 
+total due: $40,062,952.09 
+ 
+month paid: $5,098,952.13 
+ 
+----- current balance $40,062,952.09 -----  
+----- month plan 77 [2027-02-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $331,681.31 
+due: $4,095,743.29 
+principal due: $3,622,017.92 
+fees life insurance: $28,044.07 
+fees insurance due: $142,044.07 
+total due: $35,440,934.17 
+ 
+month paid: $5,095,743.29 
+ 
+----- current balance $35,440,934.17 -----  
+----- month plan 78 [2027-03-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $293,415.61 
+due: $4,092,507.87 
+principal due: $3,660,283.62 
+fees life insurance: $24,808.65 
+fees insurance due: $138,808.65 
+total due: $30,780,650.56 
+ 
+month paid: $5,092,507.87 
+ 
+----- current balance $30,780,650.56 -----  
+----- month plan 79 [2027-04-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $254,833.10 
+due: $4,089,245.68 
+principal due: $3,698,866.12 
+fees life insurance: $21,546.46 
+fees insurance due: $135,546.46 
+total due: $26,081,784.44 
+ 
+month paid: $5,089,245.68 
+ 
+----- current balance $26,081,784.44 -----  
+----- month plan 80 [2027-05-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $215,931.18 
+due: $4,085,956.47 
+principal due: $3,737,768.05 
+fees life insurance: $18,257.25 
+fees insurance due: $132,257.25 
+total due: $21,344,016.39 
+ 
+month paid: $5,085,956.47 
+ 
+----- current balance $21,344,016.39 -----  
+----- month plan 81 [2027-06-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $176,707.18 
+due: $4,082,640.03 
+principal due: $3,776,992.04 
+fees life insurance: $14,940.81 
+fees insurance due: $128,940.81 
+total due: $16,567,024.35 
+ 
+month paid: $5,082,640.03 
+ 
+----- current balance $16,567,024.35 -----  
+----- month plan 82 [2027-07-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $137,158.45 
+due: $4,079,296.14 
+principal due: $3,816,540.77 
+fees life insurance: $11,596.92 
+fees insurance due: $125,596.92 
+total due: $11,750,483.58 
+ 
+month paid: $5,079,296.14 
+ 
+----- current balance $11,750,483.58 -----  
+----- month plan 83 [2027-08-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $97,282.29 
+due: $4,075,924.56 
+principal due: $3,856,416.93 
+fees life insurance: $8,225.34 
+fees insurance due: $122,225.34 
+total due: $6,894,066.65 
+ 
+month paid: $5,075,924.56 
+ 
+----- current balance $6,894,066.65 -----  
+----- month plan 84 [2027-09-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $57,076.00 
+due: $4,072,525.07 
+principal due: $3,896,623.22 
+fees life insurance: $4,825.85 
+fees insurance due: $118,825.85 
+total due: $1,997,443.42 
+ 
+month paid: $5,072,525.07 
+ 
+----- current balance $1,997,443.42 -----  
+----- month plan 85 [2027-10-28] ------ 
+principal fixed payment: $1,000,000.00 
+principal payment: $1,000,000.00 
+interest due: $16,536.84 
+due: $4,069,097.43 
+principal due: $3,937,162.38 
+fees life insurance: $1,398.21 
+fees insurance due: $115,398.21 
+total due: -$2,939,718.96 
+ 
+month paid: $5,069,097.43 
+ 
+************************* 
+------ Overview ------ 
+total paid interest: $118,124,714.83 
+total paid fee insurances:$19,677,591.39 
+monthly principal: $1,000,000.00 
+total paid: $440,742,025.18 
+total principal: $85,000,000.00 
+------ loan ------ 
+property price: $441,000,000.00 
+total due: $300,000,000.00 
+interest rate per year: 0.103999 % 
+interest rate per month: 0.008279003131801188 % 
+installments: 120 
+fee life insurance: $210,000.00 
+fee disaster insurance: $114,000.00 
+initial payment: $141,000,000.00 
+------ time ------ 
+total in months: 85 
+total in years: 7.083333333333333 
+inflexion point: 24 
+finish date: 2027-11-28 
+total years reduced: 2.916666666666667 
+************************* 
