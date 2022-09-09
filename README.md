@@ -1,7 +1,20 @@
 # credit-simulator-col
 
-**Scenario 1**
+### This is a simulation in COP 🇨🇴!
 
+I went from having a bad debt to a small and manageable one due to Python.
+
+Having a house is an important decision, and the credits are sometimes overwhelming. So, I decided to create a script, and compare many scenarios, then decide what was best for me. 
+
+In summary:
+- Pay more than the minimum payment. Go through your budget and decide how much extra you can put toward your debt. 
+- Refinance debt.
+
+As you can see on the scenarios, the amount of money paid in interset is absurd.
+
+> Information is power! 🔥
+
+**Scenario 1**
 ```shell
 ************************* 
 ------ Overview ------ 
