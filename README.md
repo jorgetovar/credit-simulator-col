@@ -10,7 +10,7 @@ In summary:
 - Pay more than the minimum payment. Go through your budget and decide how much extra you can put toward your debt. 
 - Refinance debt.
 
-As you can see on the scenarios, the amount of money paid in interset is absurd.
+As you can see in the scenarios, the amount of money paid in interest is absurd.
 
 > Information is power! 🔥
 
