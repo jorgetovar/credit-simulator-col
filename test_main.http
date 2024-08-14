@@ -1,0 +1,21 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8000/
+Accept: application/json
+
+###
+
+POST /credit/simulate?first_due_date=2023-10-28 HTTP/1.1
+Host: 127.0.0.1:8000
+Content-Type: application/json
+
+{
+  "property_price": 441000000,
+  "total_due": 300000000,
+  "interest_rate_per_year": 0.103999,
+  "installments": 120,
+  "fee_life_insurance": 210000,
+  "fee_disaster_insurance": 114000
+}
+
+###
