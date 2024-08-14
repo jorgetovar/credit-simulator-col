@@ -1,6 +1,6 @@
-import locale
+def format_cop(amount):
+    # Ensure the amount is a float with two decimal places
+    formatted_amount = f"{amount:,.2f}"
 
-
-def format_cop(_amount):
-    locale.setlocale(locale.LC_ALL, 'en_US')
-    return locale.currency(_amount, grouping=True)
+    # Add the "COP" symbol in front of the formatted amount
+    return f"COP ${formatted_amount}"

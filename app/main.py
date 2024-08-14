@@ -1,14 +1,12 @@
-import logging
 import datetime
 from typing import Optional, Dict
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
 
 from app.domain.model import Loan
 from app.service_layer import payment_plan_service
-from pydantic import BaseModel
-
 from app.service_layer.money import format_cop
 
 app = FastAPI()
