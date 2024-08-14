@@ -28,7 +28,7 @@ def generate(loan, first_due_date, file_name):
     def get_month_due(actual_amount_due):
         return total_due * (
                 (interest_rate_per_month * get_month_rate_installment()) / (get_month_rate_installment() - 1)) \
-               + get_fee_insurance_cost(actual_amount_due)
+            + get_fee_insurance_cost(actual_amount_due)
 
     def get_month_interest_due(actual_amount_due):
         return actual_amount_due * interest_rate_per_month
