@@ -1,8 +1,8 @@
 import datetime
 import unittest
-from service_layer import payment_plan_service
 
-from domain.model import Loan
+from app.domain.model import Loan
+from app.service_layer import payment_plan_service
 
 expected = {'total_interest': 174443906.52459008,
             'total_months': 120,

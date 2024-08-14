@@ -1,8 +1,8 @@
 from dateutil.relativedelta import relativedelta
 
-from adapters.payment_printer import PaymentWriter
-from domain.model import State, Due, PaymentPlan
-from service_layer.money import format_cop
+from app.adapters.payment_printer import PaymentWriter
+from app.domain.model import State, Due, PaymentPlan
+from app.service_layer.money import format_cop
 
 
 def generate(loan, first_due_date, file_name):
