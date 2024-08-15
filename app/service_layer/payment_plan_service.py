@@ -5,7 +5,7 @@ from app.domain.model import State, Due, PaymentPlan
 from app.service_layer.money import format_cop
 
 
-def generate(loan, first_due_date, file_name):
+def generate(loan, first_due_date, file_name=None):
     result = PaymentPlan()
 
     writer = PaymentWriter(file_name)
@@ -62,12 +62,13 @@ def generate(loan, first_due_date, file_name):
         month_principal_due = month_due - month_interest_due - fee_insurance
         new_total_due = actual_amount_due - month_principal_due - principal_payment
         month_fee_life_insurance = get_fee_life_insurance_cost(actual_amount_due)
-
-        if month_principal_due > month_interest_due and not state.inflexion_point_detected:
+        month_paid = month_due + principal_payment
+        interest_percentage = (month_interest_due / month_paid) * 100
+        if interest_percentage <= 20 and not state.inflexion_point_detected:
             result.inflexion_point = result.total_months
             state.inflexion_point_detected = True
+            writer.write_line(f'**Inflexion point detected at month {result.total_months}**')
         result.total_principal = result.total_principal + principal_payment
-        month_paid = month_due + principal_payment
         result.total_paid = result.total_paid + month_paid
 
         writer.write_due_information(fee_insurance, month_due, month_fee_life_insurance, month_interest_due, month_paid,
@@ -104,7 +105,6 @@ def generate(loan, first_due_date, file_name):
 
         return actual_amount_due
 
-    writer.write_line(f'----- PAYMENT-PLAN -----\n')
+    writer.write_line('----- PAYMENT-PLAN -----\n')
     payment_plan_fixed_terms(total_due, monthly_principal)
-    writer.close()
-    return result
+    return result, writer.file

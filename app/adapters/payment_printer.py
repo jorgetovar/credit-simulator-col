@@ -3,15 +3,12 @@ from app.service_layer.money import format_cop
 
 class PaymentWriter:
     def __init__(self, file_name):
-        f = open(f'{file_name}.txt', "w+")
+        f = []
         self.file = f
 
     def write_line(self, line):
-        self.file.write(f'{line} \n')
-        print(f'{line}')
-
-    def close(self):
-        self.file.close()
+        self.file.append(line)
+        print(f'{line} \n')
 
     def write_time(self, result, state, reduced_years):
         self.write_line(f'total in months: {result.total_months}')

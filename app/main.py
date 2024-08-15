@@ -1,5 +1,5 @@
 import datetime
-from typing import Optional, Dict
+from typing import Optional, Dict, List
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -32,22 +32,23 @@ class PaymentPlanResponse(BaseModel):
     reduced_years: float
     month_due: float
     total_principal: float
+    # Add the file field to the response model array of strings
+    file: List[str]
 
     def format_fields(self):
-        # Apply formatting to all monetary fields
         return {
             "total_interest": format_cop(self.total_interest),
             "total_months": self.total_months,
             "total_fee_insurance": format_cop(self.total_fee_insurance),
-            "inflexion_point": self.inflexion_point,
-            "interest_rate_per_month": self.interest_rate_per_month,
-            # Assuming this is a percentage and should not be formatted as money
+            "inflexion_point_in_months": f"{self.inflexion_point} months where 20% of the payment is interest",
+            "interest_rate_per_month": f"{self.interest_rate_per_month:.3%}",
             "total_paid": format_cop(self.total_paid),
             "total_paid_plus_initial_payment": format_cop(self.total_paid_plus_initial_payment),
-            "total_in_years": self.total_in_years,  # Assuming this is a duration and should not be formatted as money
-            "reduced_years": self.reduced_years,  # Assuming this is a duration and should not be formatted as money
+            "total_in_years": self.total_in_years,
+            "reduced_years": self.reduced_years,
             "month_due": format_cop(self.month_due),
             "total_principal": format_cop(self.total_principal),
+            "payment_plan": self.file
         }
 
 
@@ -86,7 +87,7 @@ def hello_aws_community_builders(loan: LoanModel, first_due_date: str):
         principal_dict=loan.principal_dict,
     )
 
-    payment_plan = payment_plan_service.generate(loan_obj, first_due_date, 'production_payment_plan')
+    payment_plan, file = payment_plan_service.generate(loan_obj, first_due_date, 'production_payment_plan')
     response_model = PaymentPlanResponse(
         total_interest=payment_plan.total_interest,
         total_months=payment_plan.total_months,
@@ -98,7 +99,8 @@ def hello_aws_community_builders(loan: LoanModel, first_due_date: str):
         total_in_years=payment_plan.total_in_years,
         reduced_years=payment_plan.reduced_years,
         month_due=payment_plan.month_due,
-        total_principal=payment_plan.total_principal
+        total_principal=payment_plan.total_principal,
+        file=file
     )
 
     return response_model.format_fields()
