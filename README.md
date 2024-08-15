@@ -1,97 +1,106 @@
-# credit-simulator-col
+# Credit Simulator Colombia 🇨🇴
 
-### This is a simulation in COP 🇨🇴!
+## Overview
 
-I went from having a bad debt to a small and manageable one due to Python.
+This Credit Simulator helps you make informed decisions about housing loans in Colombian Pesos (COP). It demonstrates how Python can transform a daunting debt into a manageable one through smart financial planning.
 
-Having a house is an important decision, and the credits are sometimes overwhelming. So, I created this Repository, compared many scenarios, and then decided what was best for me.
+## Why This Matters
 
-In summary:
+Purchasing a home is a significant decision, and the associated credits can be overwhelming. This repository allows you to compare various scenarios and make the best decision for your financial situation.
 
-- Pay more than the minimum payment. Go through your budget and decide how much extra you can put toward your debt.
-- Refinance debt.
+Key takeaways:
+- Pay more than the minimum: Allocate extra funds towards your debt when possible.
+- Consider refinancing: It can significantly reduce your overall interest payments.
 
-As you can see in the scenarios, the amount of money paid in interest is absurd.
+> Remember: Information is power! 🔥
 
-> Information is power! 🔥
+## Scenarios
 
-**Scenario 1**
-```shell
-************************* 
------- Overview ------ 
-total paid interest: $174,443,906.52 
-total paid fee insurances:$28,429,449.01 
-monthly principal: $0.00 
-total paid: $502,873,355.54 
-total principal: $0.00 
------- loan ------ 
-property price: $441,000,000.00 
-total due: $300,000,000.00 
-interest rate per year: 0.103999 % 
-interest rate per month: 0.008279003131801188 % 
-installments: 120 
-fee life insurance: $210,000.00 
-fee disaster insurance: $114,000.00 
-initial payment: $141,000,000.00 
------- time ------ 
-total in months: 120 
-total in years: 10.0 
-inflexion point: 37 
-finish date: 2030-10-28 
-total years reduced: 0.0 
-************************* 
-```
-
-**Scenario 2**
+### Scenario 1: Minimum Payments
 
 ```shell
 ************************* 
 ------ Overview ------ 
-total paid interest: $118,124,714.83 
-total paid fee insurances:$19,677,591.39 
-monthly principal: $1,000,000.00 
-total paid: $440,742,025.18 
-total principal: $85,000,000.00 
------- loan ------ 
-property price: $441,000,000.00 
-total due: $300,000,000.00 
-interest rate per year: 0.103999 % 
-interest rate per month: 0.008279003131801188 % 
-installments: 120 
-fee life insurance: $210,000.00 
-fee disaster insurance: $114,000.00 
-initial payment: $141,000,000.00 
------- time ------ 
-total in months: 85 
-total in years: 7.083333333333333 
-inflexion point: 24 
-finish date: 2027-11-28 
-total years reduced: 2.916666666666667 
+Total paid interest: $174,443,906.52 
+Total paid fee insurances: $28,429,449.01 
+Monthly principal: $0.00 
+Total paid: $502,873,355.54 
+Total principal: $0.00 
+...
+Total years reduced: 0.0 
 ************************* 
 ```
-**Scenario 3**
+
+### Scenario 2: Extra Monthly Payment
+
 ```shell
 ************************* 
 ------ Overview ------ 
-total paid interest: $88,098,623.41 
-total paid fee insurances:$15,542,848.06 
-monthly principal: $1,000,000.00 
-total paid: $407,255,492.75 
-total principal: $111,000,000.00 
------- loan ------ 
-property price: $441,000,000.00 
-total due: $300,000,000.00 
-interest rate per year: 0.103999 % 
-interest rate per month: 0.008279003131801188 % 
-installments: 120 
-fee life insurance: $210,000.00 
-fee disaster insurance: $114,000.00 
-initial payment: $141,000,000.00 
------- time ------ 
-total in months: 71 
-total in years: 5.916666666666667 
-inflexion point: 17 
-finish date: 2026-09-28 
-total years reduced: 4.083333333333333 
+Total paid interest: $118,124,714.83 
+Total paid fee insurances: $19,677,591.39 
+Monthly principal: $1,000,000.00 
+Total paid: $440,742,025.18 
+Total principal: $85,000,000.00 
+...
+Total years reduced: 2.916666666666667 
 ************************* 
 ```
+
+### Scenario 3: Larger Extra Monthly Payment
+
+```shell
+************************* 
+------ Overview ------ 
+Total paid interest: $88,098,623.41 
+Total paid fee insurances: $15,542,848.06 
+Monthly principal: $1,000,000.00 
+Total paid: $407,255,492.75 
+Total principal: $111,000,000.00 
+...
+Total years reduced: 4.083333333333333 
+************************* 
+```
+
+## API Access
+
+This simulator is also available as an API, allowing you to integrate these calculations into your own applications or scripts.
+
+### Example API Call
+
+Use the following curl command to simulate a credit scenario:
+
+```bash
+curl --location 'https://credit-simulator-col.fly.dev/credit/simulate?first_due_date=2024-08-25' \
+--header 'Content-Type: application/json' \
+--data '{
+    "property_price": 168000000,
+    "total_due": 120000000,
+    "interest_rate_per_year": 0.103999,
+    "installments": 60,
+    "fee_life_insurance": 130000,
+    "fee_disaster_insurance": 100000
+    "monthly_principal": 100000 # optional
+}'
+```
+
+This API call simulates a credit scenario with the following parameters:
+- Property Price: 168,000,000 COP
+- Total Due: 120,000,000 COP
+- Annual Interest Rate: 10.3999%
+- Installments: 60 months
+- Monthly Life Insurance Fee: 130,000 COP
+- Monthly Disaster Insurance Fee: 100,000 COP
+- Monthly Principal: 100,000 COP (Optional)
+
+Feel free to adjust these parameters to match your specific scenario.
+
+## Conclusion
+
+By leveraging this Credit Simulator, you can make more informed decisions about your housing loan. Remember, small changes in your payment strategy can lead to significant savings over time.
+
+## Contributing
+
+Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request.
+
+
+> Happy simulating, and may your financial decisions be ever in your favor! 💰🏠
