@@ -78,30 +78,30 @@ def generate(loan, first_due_date, file_name=None):
                    fee_insurance)
 
     def payment_plan_fixed_terms(actual_amount_due, to_principal=0):
-
-        if actual_amount_due > 0:
+        while actual_amount_due > 0:
             writer.write_line(f'----- current balance {format_cop(actual_amount_due)} ----- ')
             result.total_months = result.total_months + 1
             plan = get_due(actual_amount_due, to_principal)
             result.total_fee_insurance = result.total_fee_insurance + plan.insurance
             result.total_interest = result.total_interest + plan.month_payment_interest
-            actual_amount_due = payment_plan_fixed_terms(plan.balance, to_principal)
-        else:
-            reduced_years = installments / 12 - result.total_months / 12
-            reduced_years = 0 if reduced_years < 0 else reduced_years
-            result.interest_rate_per_month = interest_rate_per_month
-            result.total_in_years = result.total_months / 12
-            result.reduced_years = reduced_years
+            actual_amount_due = plan.balance
 
-            writer.write_line('*************************')
-            writer.write_line('------ Overview ------')
-            writer.write_overview(result, monthly_principal)
-            writer.write_line('------ loan ------')
-            writer.write_loan(property_price, total_due, interest_rate_per_year, interest_rate_per_month, installments,
-                              fee_life_insurance, fee_disaster_insurance, initial_payment)
-            writer.write_line('------ time ------')
-            writer.write_time(result, state, reduced_years)
-            writer.write_line('*************************')
+        # Calculate final results
+        reduced_years = installments / 12 - result.total_months / 12
+        reduced_years = 0 if reduced_years < 0 else reduced_years
+        result.interest_rate_per_month = interest_rate_per_month
+        result.total_in_years = result.total_months / 12
+        result.reduced_years = reduced_years
+
+        writer.write_line('*************************')
+        writer.write_line('------ Overview ------')
+        writer.write_overview(result, monthly_principal)
+        writer.write_line('------ loan ------')
+        writer.write_loan(property_price, total_due, interest_rate_per_year, interest_rate_per_month, installments,
+                          fee_life_insurance, fee_disaster_insurance, initial_payment)
+        writer.write_line('------ time ------')
+        writer.write_time(result, state, reduced_years)
+        writer.write_line('*************************')
 
         return actual_amount_due
 
